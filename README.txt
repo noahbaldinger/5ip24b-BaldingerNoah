@@ -30,4 +30,4 @@ To start the Echo client execute the following command:
 
     where:  ServerIP         is the IP address of the EchoServer
             ListenerPort     is the listener port of the EchoServer
-test
+test2
