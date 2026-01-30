@@ -25,8 +25,8 @@ public class MyEchoServer extends Thread {
 		
 		ServerSocket serverSocket = null;
 
-		int serverPort = 10080;
-        int myTimeout = 10000;
+		int serverPort = 10081;
+        int myTimeout = 1000;
         int quietFlag = 0;
         
         if ( args.length == 0 || args.length > 2 ) {
